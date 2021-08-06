@@ -1,0 +1,15 @@
+{
+  "name": "package.json",
+  "version": "1.1.0",
+  "description": "Our package",
+  "main": "bash.js",
+  "scripts": {
+    "test": "bash.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "utf8": "^3.0.0"
+  }
+}
